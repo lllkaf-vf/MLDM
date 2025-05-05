@@ -4,7 +4,7 @@
 #include <locale>
 
 using namespace std;
-
+// внес изменения в файл
 // Определение структуры для хранения элемента массива
 struct Element {
     char letter;     // Первый - символ (b) (elem[1] >= 'a' && elem[1] <= 'z')
